@@ -1,7 +1,7 @@
 <h1 align="left">Hi👋, I'm Gustavo!</h1>
 <p align="left">
 
-- 🔥 Junior Software Engineer, studying at FIAP. 
+- 🔥 Software Engineer, studying at FIAP. 
 
 - 🔭  English & Portuguese (Brazil)
 
