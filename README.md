@@ -22,7 +22,6 @@
 - Visual Studio Code  
 
 ### Frameworks  
-- Focused on vRP development  
 - Familiar with **Vite.js**, **React**, **Tailwind CSS** (limited experience), and **Bootstrap**
 
 ### Skills  
