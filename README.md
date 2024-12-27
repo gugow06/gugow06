@@ -1,26 +1,39 @@
-<h1 align="left">Hi👋, I'm Gustavo!</h1>
-<p align="left">
+# Hi👋, I'm Gustavo!
 
-- 🔥 Software Engineer, studying at FIAP. 
+🔥 **Software Engineer in the making**  
+🔭 **Bilingual:** English & Portuguese (Brazil)  
+⚡ **Passionate about:** Games, cars, movies, and all things geeky!  
 
-- 🔭  English & Portuguese (Brazil)
+---
 
-- ⚡ Passionate about games, cars, movies and geeky stuff!
+## 🛠 **Tech Stack**
 
-<br>
+### Languages  
+- Python  
+- JavaScript  
+- Java  
+- C++  
+- HTML  
+- CSS  
 
-## 🛠 &nbsp;Tech Stack
+### Tools  
+- Git  
+- GitHub  
+- Visual Studio Code  
 
-<br>
+### Frameworks  
+- Focused on vRP development  
+- Familiar with **Vite.js**, **React**, **Tailwind CSS** (limited experience), and **Bootstrap**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+### Skills  
+- Networking architecture  
+- Data science  
+- Oracle databases  
+- AR/VR simulation  
 
+---
 
-<br>
+🎯 **Interests**  
+Networking, software development, and building systems that make a difference.  
+
+🚀 *"Keep building, keep evolving!"*
