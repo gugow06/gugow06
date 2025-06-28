@@ -1,4 +1,4 @@
-<h1>Hey there! <img src="wave.gif" width="40"/></h1>
+<h1>Hey there! <img src="assets/wave.gif" width="40"/></h1>
 
 I'm **Gustavo (he/him)** — a 20-year-old software engineer and FIAP student. I'm interested in development, entrepreneurship, and lifestyle. In my free time, I invest in new projects and love to always be learning something new and seeking knowledge!
 
@@ -18,7 +18,7 @@ I'm **Gustavo (he/him)** — a 20-year-old software engineer and FIAP student. I
   Networking architecture  •  Data science  •  Oracle databases  •  AR/VR simulation
 </p>
 
-<h1><img src="connect.gif" width="45"/> Connect with me!</h1>
+<h1><img src="assets/connect.gif" width="45"/> Connect with me!</h1>
 
 To access my social networks and connect with me, click the icons below!
 
